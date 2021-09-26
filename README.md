@@ -4,7 +4,7 @@ In this portion of the assignment, I employed the use of Azure pipelines to perf
 
 I have also created 2 branches, a "release" which was previously the master and a "staging" branch, both with a "azure-pipelines.yml" file.
 
-You can view the public azure project [here]: https://dev.azure.com/Ddon2015/Donovan%20-%20DevOps%20Assignment/_build
+You can view the public azure project [https://dev.azure.com/Ddon2015/Donovan%20-%20DevOps%20Assignment/_build] 
  
 As for versioning, it is commonly used to denote the amounnt of development done on an application/software. Hence, many applications often have stable version which have been tested and operational, as well as a beta version, which is usually in the development stages. Version numbers clearly denotes the size of change, varying from minor patches to major functionality changes. (i.e. Java 8 - Java 11 is a major version change, which Java 8.10 to 8.11 is a minor patch).    
   
