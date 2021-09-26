@@ -13,4 +13,4 @@ As for the final task to create a bash file to trigger when the build encountere
 
 
 
-test:[https://dev.azure.com/Ddon2015/Donovan%20-%20DevOps%20Assignment/_build] 
+[test]:https://dev.azure.com/Ddon2015/Donovan%20-%20DevOps%20Assignment/_build 
